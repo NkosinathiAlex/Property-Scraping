@@ -1,18 +1,19 @@
 <b>PROPERTY WEB SCRAPING PROJECT</b>
 
-<p>I scraped a Property portal which connects home buyers and renters who
+<p>I scraped a Property listing website which connects home buyers and renters who
 are looking to buy or rent a Property. </p>
-
-<b>GOAL:</b>
-<p>To identify factors that strongly influent property prices and help
-home buyers,  sellers And businesses who wants to buy larger lands e.g farms understand what aspects contribute to 
-property valuations.</p>
 
 <b>BACKGROUND</b>
 
 <p>Property24 is a South African Property listing Company which connects home-buyers
 and renters looking for a property. It has over 300 000 Properties listed for sale and to 
 rent from South African leading Real Estate Agents</p>
+
+<b>GOAL:</b>
+<p>To identify factors that strongly influent property prices and help
+home buyers,  sellers And businesses who wants to buy larger lands e.g farms understand what aspects contribute to 
+property valuations.</p>
+
 
 <b>Data and Data Dictionary:</b>
 
