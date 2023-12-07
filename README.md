@@ -33,6 +33,6 @@ rent from South African leading Real Estate Agents</p>
 <li>Rate and Taxes - Are taxes imposed by local municipalities or councils</li>
 <li>Pets Allowed - Indicating if Pets are allowed or not( YES OR No) Yes indicating that Pets are allowed, No Indicating
               that Pets are not allowed</li>
-<li>Agent Name - The name  of the Agent Listing the Property
-Lifestyle - The Lifestyle Of the Property</li>
+<li>Agent Name - The name  of the Agent Listing the Property</li>
+<li>Lifestyle - The Lifestyle Of the Property</li>
 </ul>
