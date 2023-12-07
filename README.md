@@ -1,20 +1,20 @@
-PROPERTY WEB SCRAPING PROJECT
+##PROPERTY WEB SCRAPING PROJECT
 
 I scraped a Property portal which connects home buyers and renters who
 are looking to buy or rent a Property. 
 
-GOAL:
+##GOAL:
 To identify factors that strongly influent property prices and help
 home buyers,  sellers And business who wants to buy larger lands as farms understand what aspects contribute to 
 property valuations.
 
-BACKGROUND
+##BACKGROUND
 
 Property24 is a South African Property listing Company which connects home-buyers
 and renters looking for a property. It has over 300 000 Properties listed for sale and to 
 rent from South African leading Real Estate Agents
 
-Data and Data Dictionary:
+##Data and Data Dictionary:
 
 Province- The name of the Province where the property is located
 City- The name of the city where the property is located
