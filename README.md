@@ -1,4 +1,4 @@
-##PROPERTY WEB SCRAPING PROJECT
+<b>PROPERTY WEB SCRAPING PROJECT</b>
 
 I scraped a Property portal which connects home buyers and renters who
 are looking to buy or rent a Property. 
