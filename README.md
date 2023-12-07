@@ -5,7 +5,7 @@ are looking to buy or rent a Property. </p>
 
 <b>GOAL:</b>
 <p>To identify factors that strongly influent property prices and help
-home buyers,  sellers And business who wants to buy larger lands as farms understand what aspects contribute to 
+home buyers,  sellers And businesses who wants to buy larger lands e.g farms understand what aspects contribute to 
 property valuations.</p>
 
 <b>BACKGROUND</b>
