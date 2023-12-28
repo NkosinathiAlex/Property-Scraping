@@ -37,6 +37,9 @@ home buyers,  sellers who wants to buy or sell Properties</p>
 <li>Lifestyle - The Lifestyle Of the Property</li>
 </ul>
 
+<h2>Data Cleaning<h2>
+<p>I used SQL and Excel for Data Cleaning</p>
+         
 <h2>Results</h2>
 <p>The Average Listing Price in South Africa via Property24 is around R1,900,000
 
