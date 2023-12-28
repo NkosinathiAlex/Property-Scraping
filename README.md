@@ -36,3 +36,10 @@ home buyers,  sellers who wants to buy or sell Properties</p>
 <li>Agent Name - The name  of the Agent Listing the Property</li>
 <li>Lifestyle - The Lifestyle Of the Property</li>
 </ul>
+
+<h2>Results</h2>
+<p>The Average Listing Price in South Africa via Property24 is around R1,900,000
+
+The Cheapest Province  to buy a house is Freestate 
+with an average of R1,500,000  while The Western Cape Province is the 
+most expensive place to buy a house which averages R2,700,000.</p>
