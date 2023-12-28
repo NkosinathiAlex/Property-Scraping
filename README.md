@@ -10,9 +10,8 @@ and renters looking for a property. It has over 300 000 Properties listed for sa
 rent from South African leading Real Estate Agents</p>
 
 <b>GOAL:</b>
-<p>To identify factors that strongly influent property prices and help
-home buyers,  sellers And businesses who wants to buy larger lands e.g farms understand what aspects contribute to 
-property valuations.</p>
+<p>To identify factors that strongly influent House property prices and help
+home buyers,  sellers who wants to buy or sell Properties</p>
 
 
 <b>Data and Data Dictionary:</b>
